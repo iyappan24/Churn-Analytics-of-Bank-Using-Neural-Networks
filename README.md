@@ -1,0 +1,2 @@
+# Churn-Analytics-of-Bank-Using-Neural-Networks
+This repository is about predicting the exit status of the customer of the bank using the other independent variables in the dataset.We are using a Artificial Neural Network as the model to train over the dataset.Go through the Notebook to find the relevant details , visualisations about the dataset. The ANN.py file contains the code for training the model.
