@@ -106,7 +106,6 @@ tp = int(c[0][0])
 tn = int(c[1][1])
 
 
-
 #printing the accuracy 
 
 print("Accuracy : ",((tp+tn)/3000))
